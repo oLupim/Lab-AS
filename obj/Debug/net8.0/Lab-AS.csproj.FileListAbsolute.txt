@@ -1,0 +1,18 @@
+C:\Users\thelinkergu\Downloads\LAB\Lab-AS\obj\Debug\net8.0\Lab-AS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thelinkergu\Downloads\LAB\Lab-AS\obj\Debug\net8.0\Lab-AS.AssemblyInfoInputs.cache
+C:\Users\thelinkergu\Downloads\LAB\Lab-AS\obj\Debug\net8.0\Lab-AS.AssemblyInfo.cs
+C:\Users\thelinkergu\Downloads\LAB\Lab-AS\obj\Debug\net8.0\Lab-AS.csproj.CoreCompileInputs.cache
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\bin\Debug\net8.0\Lab-AS.exe
+D:\[FACULDADE]\Laboratório de Programação\Lab-AS\bin\Debug\net8.0\Lab-AS.deps.json
+D:\[FACULDADE]\Laboratório de Programação\Lab-AS\bin\Debug\net8.0\Lab-AS.runtimeconfig.json
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\bin\Debug\net8.0\Lab-AS.dll
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\bin\Debug\net8.0\Lab-AS.pdb
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.GeneratedMSBuildEditorConfig.editorconfig
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.AssemblyInfoInputs.cache
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.AssemblyInfo.cs
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.csproj.CoreCompileInputs.cache
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.dll
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\refint\Lab-AS.dll
+d:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.pdb
+D:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\Lab-AS.genruntimeconfig.cache
+D:\[FACULDADE]\Laboratório de Programação\Lab-AS\obj\Debug\net8.0\ref\Lab-AS.dll
