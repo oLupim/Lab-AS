@@ -1,6 +1,7 @@
 
 public abstract class Funcionario
 {
+    //atributos
     public string nome;
     public int matricula;
 
@@ -22,6 +23,6 @@ public abstract class Funcionario
 
     public void AdicionarProjeto(List<string> Lista) //armazena cada nome de projeto da lista em uma lista de strings.
     {
-        foreach (string projeto in Projetos){Lista.Add(projeto);}
+        foreach (string projeto in Projetos){Lista.Add(projeto);} //se tiver string na lista Projetos, irá add essa string na lista
     }
 }
